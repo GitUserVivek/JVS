@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/jvs/static/css/main.f0853d01.chunk.css",
-    "main.js": "/jvs/static/js/main.b8a481b4.chunk.js",
-    "main.js.map": "/jvs/static/js/main.b8a481b4.chunk.js.map",
-    "runtime-main.js": "/jvs/static/js/runtime-main.5d0085f0.js",
-    "runtime-main.js.map": "/jvs/static/js/runtime-main.5d0085f0.js.map",
-    "static/js/2.f8bc69c8.chunk.js": "/jvs/static/js/2.f8bc69c8.chunk.js",
-    "static/js/2.f8bc69c8.chunk.js.map": "/jvs/static/js/2.f8bc69c8.chunk.js.map",
-    "static/js/3.1bd28cfb.chunk.js": "/jvs/static/js/3.1bd28cfb.chunk.js",
-    "static/js/3.1bd28cfb.chunk.js.map": "/jvs/static/js/3.1bd28cfb.chunk.js.map",
+    "main.css": "/jvs/static/css/main.2320eea8.chunk.css",
+    "main.js": "/jvs/static/js/main.84718646.chunk.js",
+    "main.js.map": "/jvs/static/js/main.84718646.chunk.js.map",
+    "runtime-main.js": "/jvs/static/js/runtime-main.79d38594.js",
+    "runtime-main.js.map": "/jvs/static/js/runtime-main.79d38594.js.map",
+    "static/js/2.c7d8f973.chunk.js": "/jvs/static/js/2.c7d8f973.chunk.js",
+    "static/js/2.c7d8f973.chunk.js.map": "/jvs/static/js/2.c7d8f973.chunk.js.map",
+    "static/js/3.77ea301e.chunk.js": "/jvs/static/js/3.77ea301e.chunk.js",
+    "static/js/3.77ea301e.chunk.js.map": "/jvs/static/js/3.77ea301e.chunk.js.map",
     "index.html": "/jvs/index.html",
-    "static/css/main.f0853d01.chunk.css.map": "/jvs/static/css/main.f0853d01.chunk.css.map",
-    "static/js/2.f8bc69c8.chunk.js.LICENSE.txt": "/jvs/static/js/2.f8bc69c8.chunk.js.LICENSE.txt",
+    "static/css/main.2320eea8.chunk.css.map": "/jvs/static/css/main.2320eea8.chunk.css.map",
+    "static/js/2.c7d8f973.chunk.js.LICENSE.txt": "/jvs/static/js/2.c7d8f973.chunk.js.LICENSE.txt",
+    "static/media/Vivek.e40e3a0d.png": "/jvs/static/media/Vivek.e40e3a0d.png",
     "static/media/email.54d57f36.png": "/jvs/static/media/email.54d57f36.png",
     "static/media/facebook.24894ee6.png": "/jvs/static/media/facebook.24894ee6.png",
     "static/media/github.7da502fd.png": "/jvs/static/media/github.7da502fd.png",
@@ -20,13 +21,12 @@
     "static/media/image4.c367868f.jpg": "/jvs/static/media/image4.c367868f.jpg",
     "static/media/instagram.d256fe5d.png": "/jvs/static/media/instagram.d256fe5d.png",
     "static/media/linkedin.a7509b75.png": "/jvs/static/media/linkedin.a7509b75.png",
-    "static/media/me2.720c2026.png": "/jvs/static/media/me2.720c2026.png",
     "static/media/whatsapp.70168863.png": "/jvs/static/media/whatsapp.70168863.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d0085f0.js",
-    "static/js/2.f8bc69c8.chunk.js",
-    "static/css/main.f0853d01.chunk.css",
-    "static/js/main.b8a481b4.chunk.js"
+    "static/js/runtime-main.79d38594.js",
+    "static/js/2.c7d8f973.chunk.js",
+    "static/css/main.2320eea8.chunk.css",
+    "static/js/main.84718646.chunk.js"
   ]
 }
